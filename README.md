@@ -20,7 +20,7 @@ Este repositório apresenta a relevância do monitoramento da opacidade ionosfé
 - **`assets/`:** Recursos visuais como gráficos ou imagens relevantes.
 - **`src/`:** Scripts ou códigos associados ao estudo.
 
-## Introdução
+## 🔠 Introdução
 <div align="justify">
 A ionosfera reflete ondas de rádio e é crucial para sistemas de navegação satelital. Entretanto, fenômenos como tempestades magnéticas e cintilação podem causar imprecisões significativas. Este projeto explora a implementação de um Riômetro no estado do Rio Grande do Norte, que permitirá um melhor mapeamento das condições ionosféricas, mitigando os atrasos e melhorando a precisão dos sistemas GNSS.
 </div>
